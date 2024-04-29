@@ -1,0 +1,14 @@
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\jannik\bin\Debug\net8.0\jannik.exe
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\jannik\bin\Debug\net8.0\jannik.deps.json
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\jannik\bin\Debug\net8.0\jannik.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\jannik\bin\Debug\net8.0\jannik.dll
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\jannik\bin\Debug\net8.0\jannik.pdb
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\jannik\obj\Debug\net8.0\jannik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\jannik\obj\Debug\net8.0\jannik.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\jannik\obj\Debug\net8.0\jannik.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\jannik\obj\Debug\net8.0\jannik.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\jannik\obj\Debug\net8.0\jannik.dll
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\jannik\obj\Debug\net8.0\refint\jannik.dll
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\jannik\obj\Debug\net8.0\jannik.pdb
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\jannik\obj\Debug\net8.0\jannik.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\jannik\obj\Debug\net8.0\ref\jannik.dll

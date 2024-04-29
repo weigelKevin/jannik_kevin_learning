@@ -1,0 +1,14 @@
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\countVowel\bin\Debug\net8.0\countVowel.exe
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\countVowel\bin\Debug\net8.0\countVowel.deps.json
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\countVowel\bin\Debug\net8.0\countVowel.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\countVowel\bin\Debug\net8.0\countVowel.dll
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\countVowel\bin\Debug\net8.0\countVowel.pdb
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\countVowel\obj\Debug\net8.0\countVowel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\countVowel\obj\Debug\net8.0\countVowel.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\countVowel\obj\Debug\net8.0\countVowel.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\countVowel\obj\Debug\net8.0\countVowel.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\countVowel\obj\Debug\net8.0\countVowel.dll
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\countVowel\obj\Debug\net8.0\refint\countVowel.dll
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\countVowel\obj\Debug\net8.0\countVowel.pdb
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\countVowel\obj\Debug\net8.0\countVowel.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\countVowel\obj\Debug\net8.0\ref\countVowel.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VehicleHouse/1.0.0": {
+        "runtime": {
+          "VehicleHouse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VehicleHouse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

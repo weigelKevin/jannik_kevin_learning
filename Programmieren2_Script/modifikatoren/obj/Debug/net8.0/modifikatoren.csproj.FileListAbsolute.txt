@@ -1,0 +1,14 @@
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\modifikatoren\bin\Debug\net8.0\modifikatoren.exe
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\modifikatoren\bin\Debug\net8.0\modifikatoren.deps.json
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\modifikatoren\bin\Debug\net8.0\modifikatoren.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\modifikatoren\bin\Debug\net8.0\modifikatoren.dll
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\modifikatoren\bin\Debug\net8.0\modifikatoren.pdb
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\modifikatoren\obj\Debug\net8.0\modifikatoren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\modifikatoren\obj\Debug\net8.0\modifikatoren.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\modifikatoren\obj\Debug\net8.0\modifikatoren.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\modifikatoren\obj\Debug\net8.0\modifikatoren.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\modifikatoren\obj\Debug\net8.0\modifikatoren.dll
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\modifikatoren\obj\Debug\net8.0\refint\modifikatoren.dll
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\modifikatoren\obj\Debug\net8.0\modifikatoren.pdb
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\modifikatoren\obj\Debug\net8.0\modifikatoren.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\modifikatoren\obj\Debug\net8.0\ref\modifikatoren.dll

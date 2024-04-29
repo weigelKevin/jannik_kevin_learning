@@ -1,0 +1,14 @@
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\VehicleHouse\bin\Debug\net8.0\VehicleHouse.exe
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\VehicleHouse\bin\Debug\net8.0\VehicleHouse.deps.json
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\VehicleHouse\bin\Debug\net8.0\VehicleHouse.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\VehicleHouse\bin\Debug\net8.0\VehicleHouse.dll
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\VehicleHouse\bin\Debug\net8.0\VehicleHouse.pdb
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\VehicleHouse\obj\Debug\net8.0\VehicleHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\VehicleHouse\obj\Debug\net8.0\VehicleHouse.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\VehicleHouse\obj\Debug\net8.0\VehicleHouse.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\VehicleHouse\obj\Debug\net8.0\VehicleHouse.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\VehicleHouse\obj\Debug\net8.0\VehicleHouse.dll
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\VehicleHouse\obj\Debug\net8.0\refint\VehicleHouse.dll
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\VehicleHouse\obj\Debug\net8.0\VehicleHouse.pdb
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\VehicleHouse\obj\Debug\net8.0\VehicleHouse.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\VehicleHouse\obj\Debug\net8.0\ref\VehicleHouse.dll

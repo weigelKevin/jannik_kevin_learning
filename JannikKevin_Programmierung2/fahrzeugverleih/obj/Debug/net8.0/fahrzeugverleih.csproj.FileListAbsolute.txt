@@ -1,0 +1,14 @@
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\fahrzeugverleih\bin\Debug\net8.0\fahrzeugverleih.exe
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\fahrzeugverleih\bin\Debug\net8.0\fahrzeugverleih.deps.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\fahrzeugverleih\bin\Debug\net8.0\fahrzeugverleih.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\fahrzeugverleih\bin\Debug\net8.0\fahrzeugverleih.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\fahrzeugverleih\bin\Debug\net8.0\fahrzeugverleih.pdb
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\fahrzeugverleih\obj\Debug\net8.0\fahrzeugverleih.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\fahrzeugverleih\obj\Debug\net8.0\fahrzeugverleih.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\fahrzeugverleih\obj\Debug\net8.0\fahrzeugverleih.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\fahrzeugverleih\obj\Debug\net8.0\fahrzeugverleih.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\fahrzeugverleih\obj\Debug\net8.0\fahrzeugverleih.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\fahrzeugverleih\obj\Debug\net8.0\refint\fahrzeugverleih.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\fahrzeugverleih\obj\Debug\net8.0\fahrzeugverleih.pdb
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\fahrzeugverleih\obj\Debug\net8.0\fahrzeugverleih.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\fahrzeugverleih\obj\Debug\net8.0\ref\fahrzeugverleih.dll

@@ -1,0 +1,14 @@
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\CaessarChiffre\bin\Debug\net8.0\CaessarChiffre.exe
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\CaessarChiffre\bin\Debug\net8.0\CaessarChiffre.deps.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\CaessarChiffre\bin\Debug\net8.0\CaessarChiffre.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\CaessarChiffre\bin\Debug\net8.0\CaessarChiffre.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\CaessarChiffre\bin\Debug\net8.0\CaessarChiffre.pdb
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\CaessarChiffre\obj\Debug\net8.0\CaessarChiffre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\CaessarChiffre\obj\Debug\net8.0\CaessarChiffre.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\CaessarChiffre\obj\Debug\net8.0\CaessarChiffre.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\CaessarChiffre\obj\Debug\net8.0\CaessarChiffre.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\CaessarChiffre\obj\Debug\net8.0\CaessarChiffre.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\CaessarChiffre\obj\Debug\net8.0\refint\CaessarChiffre.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\CaessarChiffre\obj\Debug\net8.0\CaessarChiffre.pdb
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\CaessarChiffre\obj\Debug\net8.0\CaessarChiffre.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\CaessarChiffre\obj\Debug\net8.0\ref\CaessarChiffre.dll

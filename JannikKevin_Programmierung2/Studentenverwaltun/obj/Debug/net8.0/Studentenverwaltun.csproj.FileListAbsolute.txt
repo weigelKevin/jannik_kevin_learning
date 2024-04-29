@@ -1,0 +1,14 @@
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Studentenverwaltun\bin\Debug\net8.0\Studentenverwaltun.exe
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Studentenverwaltun\bin\Debug\net8.0\Studentenverwaltun.deps.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Studentenverwaltun\bin\Debug\net8.0\Studentenverwaltun.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Studentenverwaltun\bin\Debug\net8.0\Studentenverwaltun.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Studentenverwaltun\bin\Debug\net8.0\Studentenverwaltun.pdb
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Studentenverwaltun\obj\Debug\net8.0\Studentenverwaltun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Studentenverwaltun\obj\Debug\net8.0\Studentenverwaltun.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Studentenverwaltun\obj\Debug\net8.0\Studentenverwaltun.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Studentenverwaltun\obj\Debug\net8.0\Studentenverwaltun.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Studentenverwaltun\obj\Debug\net8.0\Studentenverwaltun.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Studentenverwaltun\obj\Debug\net8.0\refint\Studentenverwaltun.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Studentenverwaltun\obj\Debug\net8.0\Studentenverwaltun.pdb
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Studentenverwaltun\obj\Debug\net8.0\Studentenverwaltun.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Studentenverwaltun\obj\Debug\net8.0\ref\Studentenverwaltun.dll

@@ -1,0 +1,14 @@
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\NamedParameters\bin\Debug\net8.0\NamedParameters.exe
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\NamedParameters\bin\Debug\net8.0\NamedParameters.deps.json
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\NamedParameters\bin\Debug\net8.0\NamedParameters.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\NamedParameters\bin\Debug\net8.0\NamedParameters.dll
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\NamedParameters\bin\Debug\net8.0\NamedParameters.pdb
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\NamedParameters\obj\Debug\net8.0\NamedParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\NamedParameters\obj\Debug\net8.0\NamedParameters.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\NamedParameters\obj\Debug\net8.0\NamedParameters.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\NamedParameters\obj\Debug\net8.0\NamedParameters.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\NamedParameters\obj\Debug\net8.0\NamedParameters.dll
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\NamedParameters\obj\Debug\net8.0\refint\NamedParameters.dll
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\NamedParameters\obj\Debug\net8.0\NamedParameters.pdb
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\NamedParameters\obj\Debug\net8.0\NamedParameters.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\NamedParameters\obj\Debug\net8.0\ref\NamedParameters.dll

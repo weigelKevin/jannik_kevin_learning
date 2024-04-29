@@ -1,0 +1,14 @@
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Programmierung2_Übungen\bin\Debug\net8.0\Programmierung2_Übungen.exe
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Programmierung2_Übungen\bin\Debug\net8.0\Programmierung2_Übungen.deps.json
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Programmierung2_Übungen\bin\Debug\net8.0\Programmierung2_Übungen.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Programmierung2_Übungen\bin\Debug\net8.0\Programmierung2_Übungen.dll
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Programmierung2_Übungen\bin\Debug\net8.0\Programmierung2_Übungen.pdb
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Programmierung2_Übungen\obj\Debug\net8.0\Programmierung2_Übungen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Programmierung2_Übungen\obj\Debug\net8.0\Programmierung2_Übungen.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Programmierung2_Übungen\obj\Debug\net8.0\Programmierung2_Übungen.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Programmierung2_Übungen\obj\Debug\net8.0\Programmierung2_Übungen.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Programmierung2_Übungen\obj\Debug\net8.0\Programmierung2_Übungen.dll
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Programmierung2_Übungen\obj\Debug\net8.0\refint\Programmierung2_Übungen.dll
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Programmierung2_Übungen\obj\Debug\net8.0\Programmierung2_Übungen.pdb
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Programmierung2_Übungen\obj\Debug\net8.0\Programmierung2_Übungen.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Programmierung2_Übungen\obj\Debug\net8.0\ref\Programmierung2_Übungen.dll

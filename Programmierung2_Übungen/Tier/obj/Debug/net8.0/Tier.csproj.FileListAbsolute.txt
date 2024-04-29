@@ -1,0 +1,14 @@
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Tier\bin\Debug\net8.0\Tier.exe
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Tier\bin\Debug\net8.0\Tier.deps.json
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Tier\bin\Debug\net8.0\Tier.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Tier\bin\Debug\net8.0\Tier.dll
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Tier\bin\Debug\net8.0\Tier.pdb
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Tier\obj\Debug\net8.0\Tier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Tier\obj\Debug\net8.0\Tier.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Tier\obj\Debug\net8.0\Tier.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Tier\obj\Debug\net8.0\Tier.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Tier\obj\Debug\net8.0\Tier.dll
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Tier\obj\Debug\net8.0\refint\Tier.dll
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Tier\obj\Debug\net8.0\Tier.pdb
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Tier\obj\Debug\net8.0\Tier.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Tier\obj\Debug\net8.0\ref\Tier.dll

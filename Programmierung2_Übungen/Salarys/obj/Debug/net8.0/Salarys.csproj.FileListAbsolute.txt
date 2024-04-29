@@ -1,0 +1,14 @@
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Salarys\bin\Debug\net8.0\Salarys.exe
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Salarys\bin\Debug\net8.0\Salarys.deps.json
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Salarys\bin\Debug\net8.0\Salarys.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Salarys\bin\Debug\net8.0\Salarys.dll
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Salarys\bin\Debug\net8.0\Salarys.pdb
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Salarys\obj\Debug\net8.0\Salarys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Salarys\obj\Debug\net8.0\Salarys.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Salarys\obj\Debug\net8.0\Salarys.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Salarys\obj\Debug\net8.0\Salarys.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Salarys\obj\Debug\net8.0\Salarys.dll
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Salarys\obj\Debug\net8.0\refint\Salarys.dll
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Salarys\obj\Debug\net8.0\Salarys.pdb
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Salarys\obj\Debug\net8.0\Salarys.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\Salarys\obj\Debug\net8.0\ref\Salarys.dll

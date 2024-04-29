@@ -1,0 +1,14 @@
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\RateSpiel\bin\Debug\net8.0\RateSpiel.exe
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\RateSpiel\bin\Debug\net8.0\RateSpiel.deps.json
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\RateSpiel\bin\Debug\net8.0\RateSpiel.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\RateSpiel\bin\Debug\net8.0\RateSpiel.dll
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\RateSpiel\bin\Debug\net8.0\RateSpiel.pdb
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\RateSpiel\obj\Debug\net8.0\RateSpiel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\RateSpiel\obj\Debug\net8.0\RateSpiel.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\RateSpiel\obj\Debug\net8.0\RateSpiel.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\RateSpiel\obj\Debug\net8.0\RateSpiel.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\RateSpiel\obj\Debug\net8.0\RateSpiel.dll
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\RateSpiel\obj\Debug\net8.0\refint\RateSpiel.dll
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\RateSpiel\obj\Debug\net8.0\RateSpiel.pdb
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\RateSpiel\obj\Debug\net8.0\RateSpiel.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\Programmierung2_Übungen\RateSpiel\obj\Debug\net8.0\ref\RateSpiel.dll

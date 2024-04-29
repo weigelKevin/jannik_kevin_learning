@@ -1,0 +1,14 @@
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\Simple_Versuche\bin\Debug\net8.0\Simple_Versuche.exe
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\Simple_Versuche\bin\Debug\net8.0\Simple_Versuche.deps.json
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\Simple_Versuche\bin\Debug\net8.0\Simple_Versuche.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\Simple_Versuche\bin\Debug\net8.0\Simple_Versuche.dll
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\Simple_Versuche\bin\Debug\net8.0\Simple_Versuche.pdb
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\Simple_Versuche\obj\Debug\net8.0\Simple_Versuche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\Simple_Versuche\obj\Debug\net8.0\Simple_Versuche.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\Simple_Versuche\obj\Debug\net8.0\Simple_Versuche.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\Simple_Versuche\obj\Debug\net8.0\Simple_Versuche.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\Simple_Versuche\obj\Debug\net8.0\Simple_Versuche.dll
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\Simple_Versuche\obj\Debug\net8.0\refint\Simple_Versuche.dll
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\Simple_Versuche\obj\Debug\net8.0\Simple_Versuche.pdb
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\Simple_Versuche\obj\Debug\net8.0\Simple_Versuche.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\Programmieren2_Script\Simple_Versuche\obj\Debug\net8.0\ref\Simple_Versuche.dll
