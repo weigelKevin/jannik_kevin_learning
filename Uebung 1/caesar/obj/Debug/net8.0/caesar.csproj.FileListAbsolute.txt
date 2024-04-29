@@ -1,0 +1,14 @@
+C:\Users\janni\RiderProjects\Uebung 1\caesar\obj\Debug\net8.0\caesar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janni\RiderProjects\Uebung 1\caesar\obj\Debug\net8.0\caesar.AssemblyInfoInputs.cache
+C:\Users\janni\RiderProjects\Uebung 1\caesar\obj\Debug\net8.0\caesar.AssemblyInfo.cs
+C:\Users\janni\RiderProjects\Uebung 1\caesar\obj\Debug\net8.0\caesar.csproj.CoreCompileInputs.cache
+C:\Users\janni\RiderProjects\Uebung 1\caesar\bin\Debug\net8.0\caesar.exe
+C:\Users\janni\RiderProjects\Uebung 1\caesar\bin\Debug\net8.0\caesar.deps.json
+C:\Users\janni\RiderProjects\Uebung 1\caesar\bin\Debug\net8.0\caesar.runtimeconfig.json
+C:\Users\janni\RiderProjects\Uebung 1\caesar\bin\Debug\net8.0\caesar.dll
+C:\Users\janni\RiderProjects\Uebung 1\caesar\bin\Debug\net8.0\caesar.pdb
+C:\Users\janni\RiderProjects\Uebung 1\caesar\obj\Debug\net8.0\caesar.dll
+C:\Users\janni\RiderProjects\Uebung 1\caesar\obj\Debug\net8.0\refint\caesar.dll
+C:\Users\janni\RiderProjects\Uebung 1\caesar\obj\Debug\net8.0\caesar.pdb
+C:\Users\janni\RiderProjects\Uebung 1\caesar\obj\Debug\net8.0\caesar.genruntimeconfig.cache
+C:\Users\janni\RiderProjects\Uebung 1\caesar\obj\Debug\net8.0\ref\caesar.dll

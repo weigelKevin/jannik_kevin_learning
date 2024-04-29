@@ -1,0 +1,14 @@
+C:\Users\janni\RiderProjects\CaesarChiffre\Studierendenverwaltung\obj\Debug\net8.0\Studierendenverwaltung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janni\RiderProjects\CaesarChiffre\Studierendenverwaltung\obj\Debug\net8.0\Studierendenverwaltung.AssemblyInfoInputs.cache
+C:\Users\janni\RiderProjects\CaesarChiffre\Studierendenverwaltung\obj\Debug\net8.0\Studierendenverwaltung.AssemblyInfo.cs
+C:\Users\janni\RiderProjects\CaesarChiffre\Studierendenverwaltung\obj\Debug\net8.0\Studierendenverwaltung.csproj.CoreCompileInputs.cache
+C:\Users\janni\RiderProjects\CaesarChiffre\Studierendenverwaltung\bin\Debug\net8.0\Studierendenverwaltung.exe
+C:\Users\janni\RiderProjects\CaesarChiffre\Studierendenverwaltung\bin\Debug\net8.0\Studierendenverwaltung.deps.json
+C:\Users\janni\RiderProjects\CaesarChiffre\Studierendenverwaltung\bin\Debug\net8.0\Studierendenverwaltung.runtimeconfig.json
+C:\Users\janni\RiderProjects\CaesarChiffre\Studierendenverwaltung\bin\Debug\net8.0\Studierendenverwaltung.dll
+C:\Users\janni\RiderProjects\CaesarChiffre\Studierendenverwaltung\bin\Debug\net8.0\Studierendenverwaltung.pdb
+C:\Users\janni\RiderProjects\CaesarChiffre\Studierendenverwaltung\obj\Debug\net8.0\Studierendenverwaltung.dll
+C:\Users\janni\RiderProjects\CaesarChiffre\Studierendenverwaltung\obj\Debug\net8.0\refint\Studierendenverwaltung.dll
+C:\Users\janni\RiderProjects\CaesarChiffre\Studierendenverwaltung\obj\Debug\net8.0\Studierendenverwaltung.pdb
+C:\Users\janni\RiderProjects\CaesarChiffre\Studierendenverwaltung\obj\Debug\net8.0\Studierendenverwaltung.genruntimeconfig.cache
+C:\Users\janni\RiderProjects\CaesarChiffre\Studierendenverwaltung\obj\Debug\net8.0\ref\Studierendenverwaltung.dll

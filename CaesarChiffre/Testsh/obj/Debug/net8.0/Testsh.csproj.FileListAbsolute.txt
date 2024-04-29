@@ -1,0 +1,14 @@
+C:\Users\janni\RiderProjects\CaesarChiffre\Testsh\bin\Debug\net8.0\Testsh.exe
+C:\Users\janni\RiderProjects\CaesarChiffre\Testsh\bin\Debug\net8.0\Testsh.deps.json
+C:\Users\janni\RiderProjects\CaesarChiffre\Testsh\bin\Debug\net8.0\Testsh.runtimeconfig.json
+C:\Users\janni\RiderProjects\CaesarChiffre\Testsh\bin\Debug\net8.0\Testsh.dll
+C:\Users\janni\RiderProjects\CaesarChiffre\Testsh\bin\Debug\net8.0\Testsh.pdb
+C:\Users\janni\RiderProjects\CaesarChiffre\Testsh\obj\Debug\net8.0\Testsh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janni\RiderProjects\CaesarChiffre\Testsh\obj\Debug\net8.0\Testsh.AssemblyInfoInputs.cache
+C:\Users\janni\RiderProjects\CaesarChiffre\Testsh\obj\Debug\net8.0\Testsh.AssemblyInfo.cs
+C:\Users\janni\RiderProjects\CaesarChiffre\Testsh\obj\Debug\net8.0\Testsh.csproj.CoreCompileInputs.cache
+C:\Users\janni\RiderProjects\CaesarChiffre\Testsh\obj\Debug\net8.0\Testsh.dll
+C:\Users\janni\RiderProjects\CaesarChiffre\Testsh\obj\Debug\net8.0\refint\Testsh.dll
+C:\Users\janni\RiderProjects\CaesarChiffre\Testsh\obj\Debug\net8.0\Testsh.pdb
+C:\Users\janni\RiderProjects\CaesarChiffre\Testsh\obj\Debug\net8.0\Testsh.genruntimeconfig.cache
+C:\Users\janni\RiderProjects\CaesarChiffre\Testsh\obj\Debug\net8.0\ref\Testsh.dll

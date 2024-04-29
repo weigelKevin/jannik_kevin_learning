@@ -1,0 +1,14 @@
+C:\Users\janni\RiderProjects\CaesarChiffre\CaesarChiffre\bin\Debug\net8.0\CaesarChiffre.exe
+C:\Users\janni\RiderProjects\CaesarChiffre\CaesarChiffre\bin\Debug\net8.0\CaesarChiffre.deps.json
+C:\Users\janni\RiderProjects\CaesarChiffre\CaesarChiffre\bin\Debug\net8.0\CaesarChiffre.runtimeconfig.json
+C:\Users\janni\RiderProjects\CaesarChiffre\CaesarChiffre\bin\Debug\net8.0\CaesarChiffre.dll
+C:\Users\janni\RiderProjects\CaesarChiffre\CaesarChiffre\bin\Debug\net8.0\CaesarChiffre.pdb
+C:\Users\janni\RiderProjects\CaesarChiffre\CaesarChiffre\obj\Debug\net8.0\CaesarChiffre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janni\RiderProjects\CaesarChiffre\CaesarChiffre\obj\Debug\net8.0\CaesarChiffre.AssemblyInfoInputs.cache
+C:\Users\janni\RiderProjects\CaesarChiffre\CaesarChiffre\obj\Debug\net8.0\CaesarChiffre.AssemblyInfo.cs
+C:\Users\janni\RiderProjects\CaesarChiffre\CaesarChiffre\obj\Debug\net8.0\CaesarChiffre.csproj.CoreCompileInputs.cache
+C:\Users\janni\RiderProjects\CaesarChiffre\CaesarChiffre\obj\Debug\net8.0\CaesarChiffre.dll
+C:\Users\janni\RiderProjects\CaesarChiffre\CaesarChiffre\obj\Debug\net8.0\refint\CaesarChiffre.dll
+C:\Users\janni\RiderProjects\CaesarChiffre\CaesarChiffre\obj\Debug\net8.0\CaesarChiffre.pdb
+C:\Users\janni\RiderProjects\CaesarChiffre\CaesarChiffre\obj\Debug\net8.0\CaesarChiffre.genruntimeconfig.cache
+C:\Users\janni\RiderProjects\CaesarChiffre\CaesarChiffre\obj\Debug\net8.0\ref\CaesarChiffre.dll

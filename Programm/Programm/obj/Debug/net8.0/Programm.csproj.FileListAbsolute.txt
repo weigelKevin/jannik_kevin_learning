@@ -1,0 +1,14 @@
+C:\Users\janni\RiderProjects\Programm\Programm\bin\Debug\net8.0\Programm.exe
+C:\Users\janni\RiderProjects\Programm\Programm\bin\Debug\net8.0\Programm.deps.json
+C:\Users\janni\RiderProjects\Programm\Programm\bin\Debug\net8.0\Programm.runtimeconfig.json
+C:\Users\janni\RiderProjects\Programm\Programm\bin\Debug\net8.0\Programm.dll
+C:\Users\janni\RiderProjects\Programm\Programm\bin\Debug\net8.0\Programm.pdb
+C:\Users\janni\RiderProjects\Programm\Programm\obj\Debug\net8.0\Programm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janni\RiderProjects\Programm\Programm\obj\Debug\net8.0\Programm.AssemblyInfoInputs.cache
+C:\Users\janni\RiderProjects\Programm\Programm\obj\Debug\net8.0\Programm.AssemblyInfo.cs
+C:\Users\janni\RiderProjects\Programm\Programm\obj\Debug\net8.0\Programm.csproj.CoreCompileInputs.cache
+C:\Users\janni\RiderProjects\Programm\Programm\obj\Debug\net8.0\Programm.dll
+C:\Users\janni\RiderProjects\Programm\Programm\obj\Debug\net8.0\refint\Programm.dll
+C:\Users\janni\RiderProjects\Programm\Programm\obj\Debug\net8.0\Programm.pdb
+C:\Users\janni\RiderProjects\Programm\Programm\obj\Debug\net8.0\Programm.genruntimeconfig.cache
+C:\Users\janni\RiderProjects\Programm\Programm\obj\Debug\net8.0\ref\Programm.dll
