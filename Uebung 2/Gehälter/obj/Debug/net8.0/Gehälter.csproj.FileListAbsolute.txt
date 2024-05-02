@@ -1,0 +1,15 @@
+C:\Users\janni\RiderProjects\Uebung 2\Gehälter\bin\Debug\net8.0\Gehälter.exe
+C:\Users\janni\RiderProjects\Uebung 2\Gehälter\bin\Debug\net8.0\Gehälter.deps.json
+C:\Users\janni\RiderProjects\Uebung 2\Gehälter\bin\Debug\net8.0\Gehälter.runtimeconfig.json
+C:\Users\janni\RiderProjects\Uebung 2\Gehälter\bin\Debug\net8.0\Gehälter.dll
+C:\Users\janni\RiderProjects\Uebung 2\Gehälter\bin\Debug\net8.0\Gehälter.pdb
+C:\Users\janni\RiderProjects\Uebung 2\Gehälter\obj\Debug\net8.0\Gehälter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janni\RiderProjects\Uebung 2\Gehälter\obj\Debug\net8.0\Gehälter.AssemblyInfoInputs.cache
+C:\Users\janni\RiderProjects\Uebung 2\Gehälter\obj\Debug\net8.0\Gehälter.AssemblyInfo.cs
+C:\Users\janni\RiderProjects\Uebung 2\Gehälter\obj\Debug\net8.0\Gehälter.csproj.CoreCompileInputs.cache
+C:\Users\janni\RiderProjects\Uebung 2\Gehälter\obj\Debug\net8.0\Gehälter.sourcelink.json
+C:\Users\janni\RiderProjects\Uebung 2\Gehälter\obj\Debug\net8.0\Gehälter.dll
+C:\Users\janni\RiderProjects\Uebung 2\Gehälter\obj\Debug\net8.0\refint\Gehälter.dll
+C:\Users\janni\RiderProjects\Uebung 2\Gehälter\obj\Debug\net8.0\Gehälter.pdb
+C:\Users\janni\RiderProjects\Uebung 2\Gehälter\obj\Debug\net8.0\Gehälter.genruntimeconfig.cache
+C:\Users\janni\RiderProjects\Uebung 2\Gehälter\obj\Debug\net8.0\ref\Gehälter.dll
