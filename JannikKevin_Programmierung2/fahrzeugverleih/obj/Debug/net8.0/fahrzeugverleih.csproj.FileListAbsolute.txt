@@ -12,3 +12,4 @@ C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\fahrzeugverleih\obj\Deb
 C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\fahrzeugverleih\obj\Debug\net8.0\fahrzeugverleih.pdb
 C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\fahrzeugverleih\obj\Debug\net8.0\fahrzeugverleih.genruntimeconfig.cache
 C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\fahrzeugverleih\obj\Debug\net8.0\ref\fahrzeugverleih.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\fahrzeugverleih\obj\Debug\net8.0\fahrzeugverleih.sourcelink.json

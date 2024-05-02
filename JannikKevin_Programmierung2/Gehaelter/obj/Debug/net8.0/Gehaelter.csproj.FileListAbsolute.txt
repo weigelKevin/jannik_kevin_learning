@@ -1,0 +1,15 @@
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Gehaelter\bin\Debug\net8.0\Gehaelter.exe
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Gehaelter\bin\Debug\net8.0\Gehaelter.deps.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Gehaelter\bin\Debug\net8.0\Gehaelter.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Gehaelter\bin\Debug\net8.0\Gehaelter.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Gehaelter\bin\Debug\net8.0\Gehaelter.pdb
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Gehaelter\obj\Debug\net8.0\Gehaelter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Gehaelter\obj\Debug\net8.0\Gehaelter.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Gehaelter\obj\Debug\net8.0\Gehaelter.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Gehaelter\obj\Debug\net8.0\Gehaelter.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Gehaelter\obj\Debug\net8.0\Gehaelter.sourcelink.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Gehaelter\obj\Debug\net8.0\Gehaelter.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Gehaelter\obj\Debug\net8.0\refint\Gehaelter.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Gehaelter\obj\Debug\net8.0\Gehaelter.pdb
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Gehaelter\obj\Debug\net8.0\Gehaelter.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Gehaelter\obj\Debug\net8.0\ref\Gehaelter.dll

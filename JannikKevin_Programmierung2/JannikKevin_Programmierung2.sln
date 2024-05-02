@@ -10,6 +10,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Studentenverwaltun", "Stude
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudierendenVerwaltung", "StudierendenVerwaltung\StudierendenVerwaltung.csproj", "{68DB9736-E3DA-46F3-9962-8E94008E6F2A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tiere", "Tiere\Tiere.csproj", "{7EAE598D-3006-48C5-BFF6-BEB44628CD16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gehaelter", "Gehaelter\Gehaelter.csproj", "{B3A973A2-6AA7-4F2C-B0EC-D9820BB62F94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{68DB9736-E3DA-46F3-9962-8E94008E6F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68DB9736-E3DA-46F3-9962-8E94008E6F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68DB9736-E3DA-46F3-9962-8E94008E6F2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EAE598D-3006-48C5-BFF6-BEB44628CD16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EAE598D-3006-48C5-BFF6-BEB44628CD16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EAE598D-3006-48C5-BFF6-BEB44628CD16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EAE598D-3006-48C5-BFF6-BEB44628CD16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3A973A2-6AA7-4F2C-B0EC-D9820BB62F94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3A973A2-6AA7-4F2C-B0EC-D9820BB62F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3A973A2-6AA7-4F2C-B0EC-D9820BB62F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3A973A2-6AA7-4F2C-B0EC-D9820BB62F94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
