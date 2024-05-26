@@ -1,0 +1,15 @@
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Script\bin\Debug\net8.0\Script.exe
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Script\bin\Debug\net8.0\Script.deps.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Script\bin\Debug\net8.0\Script.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Script\bin\Debug\net8.0\Script.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Script\bin\Debug\net8.0\Script.pdb
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Script\obj\Debug\net8.0\Script.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Script\obj\Debug\net8.0\Script.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Script\obj\Debug\net8.0\Script.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Script\obj\Debug\net8.0\Script.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Script\obj\Debug\net8.0\Script.sourcelink.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Script\obj\Debug\net8.0\Script.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Script\obj\Debug\net8.0\refint\Script.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Script\obj\Debug\net8.0\Script.pdb
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Script\obj\Debug\net8.0\Script.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Script\obj\Debug\net8.0\ref\Script.dll

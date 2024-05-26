@@ -1,0 +1,15 @@
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Generic Bubble Sortt\bin\Debug\net8.0\Generic Bubble Sortt.exe
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Generic Bubble Sortt\bin\Debug\net8.0\Generic Bubble Sortt.deps.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Generic Bubble Sortt\bin\Debug\net8.0\Generic Bubble Sortt.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Generic Bubble Sortt\bin\Debug\net8.0\Generic Bubble Sortt.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Generic Bubble Sortt\bin\Debug\net8.0\Generic Bubble Sortt.pdb
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Generic Bubble Sortt\obj\Debug\net8.0\Generic Bubble Sortt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Generic Bubble Sortt\obj\Debug\net8.0\Generic Bubble Sortt.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Generic Bubble Sortt\obj\Debug\net8.0\Generic Bubble Sortt.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Generic Bubble Sortt\obj\Debug\net8.0\Generic Bubble Sortt.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Generic Bubble Sortt\obj\Debug\net8.0\Generic Bubble Sortt.sourcelink.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Generic Bubble Sortt\obj\Debug\net8.0\Generic Bubble Sortt.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Generic Bubble Sortt\obj\Debug\net8.0\refint\Generic Bubble Sortt.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Generic Bubble Sortt\obj\Debug\net8.0\Generic Bubble Sortt.pdb
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Generic Bubble Sortt\obj\Debug\net8.0\Generic Bubble Sortt.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Generic Bubble Sortt\obj\Debug\net8.0\ref\Generic Bubble Sortt.dll

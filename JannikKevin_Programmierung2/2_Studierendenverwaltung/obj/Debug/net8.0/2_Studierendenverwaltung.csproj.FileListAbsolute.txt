@@ -1,0 +1,15 @@
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\2_Studierendenverwaltung\bin\Debug\net8.0\2_Studierendenverwaltung.exe
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\2_Studierendenverwaltung\bin\Debug\net8.0\2_Studierendenverwaltung.deps.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\2_Studierendenverwaltung\bin\Debug\net8.0\2_Studierendenverwaltung.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\2_Studierendenverwaltung\bin\Debug\net8.0\2_Studierendenverwaltung.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\2_Studierendenverwaltung\bin\Debug\net8.0\2_Studierendenverwaltung.pdb
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\2_Studierendenverwaltung\obj\Debug\net8.0\2_Studierendenverwaltung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\2_Studierendenverwaltung\obj\Debug\net8.0\2_Studierendenverwaltung.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\2_Studierendenverwaltung\obj\Debug\net8.0\2_Studierendenverwaltung.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\2_Studierendenverwaltung\obj\Debug\net8.0\2_Studierendenverwaltung.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\2_Studierendenverwaltung\obj\Debug\net8.0\2_Studierendenverwaltung.sourcelink.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\2_Studierendenverwaltung\obj\Debug\net8.0\2_Studierendenverwaltung.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\2_Studierendenverwaltung\obj\Debug\net8.0\refint\2_Studierendenverwaltung.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\2_Studierendenverwaltung\obj\Debug\net8.0\2_Studierendenverwaltung.pdb
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\2_Studierendenverwaltung\obj\Debug\net8.0\2_Studierendenverwaltung.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\2_Studierendenverwaltung\obj\Debug\net8.0\ref\2_Studierendenverwaltung.dll

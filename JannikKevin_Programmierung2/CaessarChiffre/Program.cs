@@ -14,6 +14,7 @@ class Program
         int rotation = int.Parse(rotationString);
         c1.isInteger(rotationString);
         c1.DoChiffre(text, rotation);
+        
 
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\2_Palindrom\bin\Debug\net8.0\2_Palindrom.exe
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\2_Palindrom\bin\Debug\net8.0\2_Palindrom.deps.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\2_Palindrom\bin\Debug\net8.0\2_Palindrom.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\2_Palindrom\bin\Debug\net8.0\2_Palindrom.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\2_Palindrom\bin\Debug\net8.0\2_Palindrom.pdb
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\2_Palindrom\obj\Debug\net8.0\2_Palindrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\2_Palindrom\obj\Debug\net8.0\2_Palindrom.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\2_Palindrom\obj\Debug\net8.0\2_Palindrom.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\2_Palindrom\obj\Debug\net8.0\2_Palindrom.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\2_Palindrom\obj\Debug\net8.0\2_Palindrom.sourcelink.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\2_Palindrom\obj\Debug\net8.0\2_Palindrom.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\2_Palindrom\obj\Debug\net8.0\refint\2_Palindrom.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\2_Palindrom\obj\Debug\net8.0\2_Palindrom.pdb
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\2_Palindrom\obj\Debug\net8.0\2_Palindrom.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\2_Palindrom\obj\Debug\net8.0\ref\2_Palindrom.dll

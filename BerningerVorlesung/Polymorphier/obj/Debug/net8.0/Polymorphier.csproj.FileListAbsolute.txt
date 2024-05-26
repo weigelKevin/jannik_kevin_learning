@@ -1,0 +1,15 @@
+C:\Users\Kevin\RiderProjects\BerningerVorlesung\Polymorphier\bin\Debug\net8.0\Polymorphier.exe
+C:\Users\Kevin\RiderProjects\BerningerVorlesung\Polymorphier\bin\Debug\net8.0\Polymorphier.deps.json
+C:\Users\Kevin\RiderProjects\BerningerVorlesung\Polymorphier\bin\Debug\net8.0\Polymorphier.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\BerningerVorlesung\Polymorphier\bin\Debug\net8.0\Polymorphier.dll
+C:\Users\Kevin\RiderProjects\BerningerVorlesung\Polymorphier\bin\Debug\net8.0\Polymorphier.pdb
+C:\Users\Kevin\RiderProjects\BerningerVorlesung\Polymorphier\obj\Debug\net8.0\Polymorphier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\BerningerVorlesung\Polymorphier\obj\Debug\net8.0\Polymorphier.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\BerningerVorlesung\Polymorphier\obj\Debug\net8.0\Polymorphier.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\BerningerVorlesung\Polymorphier\obj\Debug\net8.0\Polymorphier.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\BerningerVorlesung\Polymorphier\obj\Debug\net8.0\Polymorphier.sourcelink.json
+C:\Users\Kevin\RiderProjects\BerningerVorlesung\Polymorphier\obj\Debug\net8.0\Polymorphier.dll
+C:\Users\Kevin\RiderProjects\BerningerVorlesung\Polymorphier\obj\Debug\net8.0\refint\Polymorphier.dll
+C:\Users\Kevin\RiderProjects\BerningerVorlesung\Polymorphier\obj\Debug\net8.0\Polymorphier.pdb
+C:\Users\Kevin\RiderProjects\BerningerVorlesung\Polymorphier\obj\Debug\net8.0\Polymorphier.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\BerningerVorlesung\Polymorphier\obj\Debug\net8.0\ref\Polymorphier.dll

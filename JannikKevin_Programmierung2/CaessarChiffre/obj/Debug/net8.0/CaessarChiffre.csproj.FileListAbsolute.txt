@@ -12,3 +12,4 @@ C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\CaessarChiffre\obj\Debu
 C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\CaessarChiffre\obj\Debug\net8.0\CaessarChiffre.pdb
 C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\CaessarChiffre\obj\Debug\net8.0\CaessarChiffre.genruntimeconfig.cache
 C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\CaessarChiffre\obj\Debug\net8.0\ref\CaessarChiffre.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\CaessarChiffre\obj\Debug\net8.0\CaessarChiffre.sourcelink.json

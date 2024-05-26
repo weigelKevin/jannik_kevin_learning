@@ -1,0 +1,15 @@
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\vererbung\bin\Debug\net8.0\vererbung.exe
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\vererbung\bin\Debug\net8.0\vererbung.deps.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\vererbung\bin\Debug\net8.0\vererbung.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\vererbung\bin\Debug\net8.0\vererbung.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\vererbung\bin\Debug\net8.0\vererbung.pdb
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\vererbung\obj\Debug\net8.0\vererbung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\vererbung\obj\Debug\net8.0\vererbung.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\vererbung\obj\Debug\net8.0\vererbung.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\vererbung\obj\Debug\net8.0\vererbung.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\vererbung\obj\Debug\net8.0\vererbung.sourcelink.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\vererbung\obj\Debug\net8.0\vererbung.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\vererbung\obj\Debug\net8.0\refint\vererbung.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\vererbung\obj\Debug\net8.0\vererbung.pdb
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\vererbung\obj\Debug\net8.0\vererbung.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\vererbung\obj\Debug\net8.0\ref\vererbung.dll

@@ -1,0 +1,15 @@
+C:\Users\Kevin\RiderProjects\BerningerVorlesung\operatorenÜberladen\bin\Debug\net8.0\operatorenÜberladen.exe
+C:\Users\Kevin\RiderProjects\BerningerVorlesung\operatorenÜberladen\bin\Debug\net8.0\operatorenÜberladen.deps.json
+C:\Users\Kevin\RiderProjects\BerningerVorlesung\operatorenÜberladen\bin\Debug\net8.0\operatorenÜberladen.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\BerningerVorlesung\operatorenÜberladen\bin\Debug\net8.0\operatorenÜberladen.dll
+C:\Users\Kevin\RiderProjects\BerningerVorlesung\operatorenÜberladen\bin\Debug\net8.0\operatorenÜberladen.pdb
+C:\Users\Kevin\RiderProjects\BerningerVorlesung\operatorenÜberladen\obj\Debug\net8.0\operatorenÜberladen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\BerningerVorlesung\operatorenÜberladen\obj\Debug\net8.0\operatorenÜberladen.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\BerningerVorlesung\operatorenÜberladen\obj\Debug\net8.0\operatorenÜberladen.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\BerningerVorlesung\operatorenÜberladen\obj\Debug\net8.0\operatorenÜberladen.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\BerningerVorlesung\operatorenÜberladen\obj\Debug\net8.0\operatorenÜberladen.sourcelink.json
+C:\Users\Kevin\RiderProjects\BerningerVorlesung\operatorenÜberladen\obj\Debug\net8.0\operatorenÜberladen.dll
+C:\Users\Kevin\RiderProjects\BerningerVorlesung\operatorenÜberladen\obj\Debug\net8.0\refint\operatorenÜberladen.dll
+C:\Users\Kevin\RiderProjects\BerningerVorlesung\operatorenÜberladen\obj\Debug\net8.0\operatorenÜberladen.pdb
+C:\Users\Kevin\RiderProjects\BerningerVorlesung\operatorenÜberladen\obj\Debug\net8.0\operatorenÜberladen.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\BerningerVorlesung\operatorenÜberladen\obj\Debug\net8.0\ref\operatorenÜberladen.dll
