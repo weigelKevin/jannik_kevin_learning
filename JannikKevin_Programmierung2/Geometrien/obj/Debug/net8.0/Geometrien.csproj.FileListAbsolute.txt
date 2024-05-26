@@ -1,0 +1,15 @@
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Geometrien\bin\Debug\net8.0\Geometrien.exe
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Geometrien\bin\Debug\net8.0\Geometrien.deps.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Geometrien\bin\Debug\net8.0\Geometrien.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Geometrien\bin\Debug\net8.0\Geometrien.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Geometrien\bin\Debug\net8.0\Geometrien.pdb
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Geometrien\obj\Debug\net8.0\Geometrien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Geometrien\obj\Debug\net8.0\Geometrien.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Geometrien\obj\Debug\net8.0\Geometrien.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Geometrien\obj\Debug\net8.0\Geometrien.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Geometrien\obj\Debug\net8.0\Geometrien.sourcelink.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Geometrien\obj\Debug\net8.0\Geometrien.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Geometrien\obj\Debug\net8.0\refint\Geometrien.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Geometrien\obj\Debug\net8.0\Geometrien.pdb
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Geometrien\obj\Debug\net8.0\Geometrien.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\Geometrien\obj\Debug\net8.0\ref\Geometrien.dll
