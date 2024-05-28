@@ -25,9 +25,12 @@ class Program
         }
         */
 
-        Truck t1 = new("A650E", "Merceds", "Kein Plan", "2000", 150.6D, true, 300, 300, 3, 10);
-        double truckRental = t1.CalculateRentalCost(2);
-        Console.WriteLine(truckRental);
+        Vehicle v1 = new Car("V001", "Toyota", "Corolla", "2020", 15000, true, 35, 4, "Benzin", 500);
+        Vehicle v2 = new Motorcyle("V002", "Honda", "Civic", "2019", 25000, true, 30, 2, 600, "Sport");
+        Vehicle v3 = new Truck("V003", "Ford", "Focus", "2018", 36000, false, 25, 500, 4, 30);
+
+        Vehicle.GetVehicleCount();
+        
 
 
     }

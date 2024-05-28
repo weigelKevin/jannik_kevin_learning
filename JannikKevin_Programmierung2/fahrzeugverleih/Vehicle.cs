@@ -4,6 +4,7 @@
 
 public abstract class Vehicle
 {
+   private static int vehicleCount = 0;
    private string Id { get; set; }
    private string Manufacturer { get; set; }
    private string Model { get; set; }
@@ -21,6 +22,7 @@ public abstract class Vehicle
       Mileage = mileage;
       Avaibility = avaibility;
       Rental = rental;
+      vehicleCount++;
    }
 
    public virtual double CalculateRentalCost(int days)
@@ -31,6 +33,11 @@ public abstract class Vehicle
    public override string ToString()
    {
       return $"ID: {Id}, Manufacturer: {Manufacturer}, Model: {Model}, Year: {Year}, Mileage: {Mileage} km, Availability: {Avaibility}, Rental: ${Rental}/day";
+   }
+
+   public static void GetVehicleCount()
+   {
+      Console.WriteLine(vehicleCount);
    }
 
   

@@ -1,0 +1,15 @@
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\InterfaceFürSortieralgorithmen\bin\Debug\net8.0\InterfaceFürSortieralgorithmen.exe
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\InterfaceFürSortieralgorithmen\bin\Debug\net8.0\InterfaceFürSortieralgorithmen.deps.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\InterfaceFürSortieralgorithmen\bin\Debug\net8.0\InterfaceFürSortieralgorithmen.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\InterfaceFürSortieralgorithmen\bin\Debug\net8.0\InterfaceFürSortieralgorithmen.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\InterfaceFürSortieralgorithmen\bin\Debug\net8.0\InterfaceFürSortieralgorithmen.pdb
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\InterfaceFürSortieralgorithmen\obj\Debug\net8.0\InterfaceFürSortieralgorithmen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\InterfaceFürSortieralgorithmen\obj\Debug\net8.0\InterfaceFürSortieralgorithmen.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\InterfaceFürSortieralgorithmen\obj\Debug\net8.0\InterfaceFürSortieralgorithmen.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\InterfaceFürSortieralgorithmen\obj\Debug\net8.0\InterfaceFürSortieralgorithmen.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\InterfaceFürSortieralgorithmen\obj\Debug\net8.0\InterfaceFürSortieralgorithmen.sourcelink.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\InterfaceFürSortieralgorithmen\obj\Debug\net8.0\InterfaceFürSortieralgorithmen.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\InterfaceFürSortieralgorithmen\obj\Debug\net8.0\refint\InterfaceFürSortieralgorithmen.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\InterfaceFürSortieralgorithmen\obj\Debug\net8.0\InterfaceFürSortieralgorithmen.pdb
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\InterfaceFürSortieralgorithmen\obj\Debug\net8.0\InterfaceFürSortieralgorithmen.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\InterfaceFürSortieralgorithmen\obj\Debug\net8.0\ref\InterfaceFürSortieralgorithmen.dll

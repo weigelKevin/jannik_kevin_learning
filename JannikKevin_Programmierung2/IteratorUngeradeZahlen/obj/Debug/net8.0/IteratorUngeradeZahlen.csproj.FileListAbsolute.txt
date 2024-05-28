@@ -1,0 +1,15 @@
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\IteratorUngeradeZahlen\bin\Debug\net8.0\IteratorUngeradeZahlen.exe
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\IteratorUngeradeZahlen\bin\Debug\net8.0\IteratorUngeradeZahlen.deps.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\IteratorUngeradeZahlen\bin\Debug\net8.0\IteratorUngeradeZahlen.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\IteratorUngeradeZahlen\bin\Debug\net8.0\IteratorUngeradeZahlen.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\IteratorUngeradeZahlen\bin\Debug\net8.0\IteratorUngeradeZahlen.pdb
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\IteratorUngeradeZahlen\obj\Debug\net8.0\IteratorUngeradeZahlen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\IteratorUngeradeZahlen\obj\Debug\net8.0\IteratorUngeradeZahlen.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\IteratorUngeradeZahlen\obj\Debug\net8.0\IteratorUngeradeZahlen.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\IteratorUngeradeZahlen\obj\Debug\net8.0\IteratorUngeradeZahlen.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\IteratorUngeradeZahlen\obj\Debug\net8.0\IteratorUngeradeZahlen.sourcelink.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\IteratorUngeradeZahlen\obj\Debug\net8.0\IteratorUngeradeZahlen.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\IteratorUngeradeZahlen\obj\Debug\net8.0\refint\IteratorUngeradeZahlen.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\IteratorUngeradeZahlen\obj\Debug\net8.0\IteratorUngeradeZahlen.pdb
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\IteratorUngeradeZahlen\obj\Debug\net8.0\IteratorUngeradeZahlen.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\IteratorUngeradeZahlen\obj\Debug\net8.0\ref\IteratorUngeradeZahlen.dll
