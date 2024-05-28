@@ -1,0 +1,15 @@
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\ZählenMitIteratoren\bin\Debug\net8.0\ZählenMitIteratoren.exe
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\ZählenMitIteratoren\bin\Debug\net8.0\ZählenMitIteratoren.deps.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\ZählenMitIteratoren\bin\Debug\net8.0\ZählenMitIteratoren.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\ZählenMitIteratoren\bin\Debug\net8.0\ZählenMitIteratoren.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\ZählenMitIteratoren\bin\Debug\net8.0\ZählenMitIteratoren.pdb
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\ZählenMitIteratoren\obj\Debug\net8.0\ZählenMitIteratoren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\ZählenMitIteratoren\obj\Debug\net8.0\ZählenMitIteratoren.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\ZählenMitIteratoren\obj\Debug\net8.0\ZählenMitIteratoren.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\ZählenMitIteratoren\obj\Debug\net8.0\ZählenMitIteratoren.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\ZählenMitIteratoren\obj\Debug\net8.0\ZählenMitIteratoren.sourcelink.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\ZählenMitIteratoren\obj\Debug\net8.0\ZählenMitIteratoren.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\ZählenMitIteratoren\obj\Debug\net8.0\refint\ZählenMitIteratoren.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\ZählenMitIteratoren\obj\Debug\net8.0\ZählenMitIteratoren.pdb
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\ZählenMitIteratoren\obj\Debug\net8.0\ZählenMitIteratoren.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\ZählenMitIteratoren\obj\Debug\net8.0\ref\ZählenMitIteratoren.dll

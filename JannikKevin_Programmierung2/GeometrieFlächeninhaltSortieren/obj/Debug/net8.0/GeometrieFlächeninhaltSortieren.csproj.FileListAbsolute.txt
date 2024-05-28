@@ -1,0 +1,15 @@
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\GeometrieFlächeninhaltSortieren\bin\Debug\net8.0\GeometrieFlächeninhaltSortieren.exe
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\GeometrieFlächeninhaltSortieren\bin\Debug\net8.0\GeometrieFlächeninhaltSortieren.deps.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\GeometrieFlächeninhaltSortieren\bin\Debug\net8.0\GeometrieFlächeninhaltSortieren.runtimeconfig.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\GeometrieFlächeninhaltSortieren\bin\Debug\net8.0\GeometrieFlächeninhaltSortieren.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\GeometrieFlächeninhaltSortieren\bin\Debug\net8.0\GeometrieFlächeninhaltSortieren.pdb
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\GeometrieFlächeninhaltSortieren\obj\Debug\net8.0\GeometrieFlächeninhaltSortieren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\GeometrieFlächeninhaltSortieren\obj\Debug\net8.0\GeometrieFlächeninhaltSortieren.AssemblyInfoInputs.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\GeometrieFlächeninhaltSortieren\obj\Debug\net8.0\GeometrieFlächeninhaltSortieren.AssemblyInfo.cs
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\GeometrieFlächeninhaltSortieren\obj\Debug\net8.0\GeometrieFlächeninhaltSortieren.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\GeometrieFlächeninhaltSortieren\obj\Debug\net8.0\GeometrieFlächeninhaltSortieren.sourcelink.json
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\GeometrieFlächeninhaltSortieren\obj\Debug\net8.0\GeometrieFlächeninhaltSortieren.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\GeometrieFlächeninhaltSortieren\obj\Debug\net8.0\refint\GeometrieFlächeninhaltSortieren.dll
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\GeometrieFlächeninhaltSortieren\obj\Debug\net8.0\GeometrieFlächeninhaltSortieren.pdb
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\GeometrieFlächeninhaltSortieren\obj\Debug\net8.0\GeometrieFlächeninhaltSortieren.genruntimeconfig.cache
+C:\Users\Kevin\RiderProjects\JannikKevin_Programmierung2\GeometrieFlächeninhaltSortieren\obj\Debug\net8.0\ref\GeometrieFlächeninhaltSortieren.dll

@@ -1,6 +1,21 @@
-﻿public void MultipleCases(string[] s)
+﻿
+using System.Runtime.Serialization;
+using Microsoft.VisualBasic.CompilerServices;
+
+class test
 {
-    foreach (var element in s)
-        Console.WriteLine("{0} {1}"
-            , element, element.Substring(element.IndexOf('a')));
+    public int i { get; set; }
+
+    public test(int i)
+    {
+        this.i = i;
+    }
+}
+class Program
+{
+   
+    public static void Main(string[] args)
+    {
+        
+    }
 }
